@@ -15,7 +15,6 @@ class Hero {
     this.power = 'No power'
   });
 
-
 //   Hero( String pName, String pPower )
 //      : name = pName,
 //        power = pPower;

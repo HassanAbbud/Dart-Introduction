@@ -36,7 +36,6 @@ class Hero {
        isAlive = json['isAlive'] ?? 'No isAlive found!';
   
 
-  
   @override
   String toString() {
     return '$name, $power, isAlive: ${ isAlive ? 'Yes':'No' }';
