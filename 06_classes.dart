@@ -1,5 +1,5 @@
 void main() {
-  final Hero wolverine = Hero('Logan', 'Regeneración');
+  final Hero wolverine = Hero('Logan', 'Regeneration');
 
   print(wolverine);
   print(wolverine.name);
