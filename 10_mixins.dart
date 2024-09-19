@@ -34,11 +34,11 @@ void main() {
   print("flipper");
   flipper.swim();
   
-  final namor = Duck();
-  print("namor");
-  namor.walk();
-  namor.swim();
-  namor.fly();
+  final donald = Duck();
+  print("donald");
+  donald.walk();
+  donald.swim();
+  donald.fly();
 
   final batman = Bat();
   print("batman");
